@@ -1,4 +1,4 @@
 # svgAnimation
 
-testing snap.svg
+testing snap.js
 to create svg animation
